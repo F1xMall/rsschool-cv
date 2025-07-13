@@ -1,9 +1,9 @@
 # **Jonh Doe**
 
 ## **Contact Information**
-- *Email*: fxmmlll.7605@gmail.con
+- *Email*: fxmmlll.7605@gmail.com
 - *GitHub*: [F1xMall](https://github.com/F1xMall)
-- *Discord*: fixmall
+- *Discord*: f1xmall
 
 ## **About Me**
 A person who wants to learn several programming languages
