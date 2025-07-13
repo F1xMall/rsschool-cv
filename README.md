@@ -1,1 +1,1 @@
-# rsschool-cv
+https://f1xmall.github.io/rsschool-cv/cv
